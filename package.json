@@ -1,0 +1,15 @@
+{
+  "name": "sekiro-in-stock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawl-amazon-products": "^0.3.0",
+    "twilio": "^3.27.1"
+  }
+}
